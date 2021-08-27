@@ -1,5 +1,7 @@
 # my_snapchat
 
+This is a project developed by a team of student developers at Epitech with the goal to create an phone app that lets you log in and send pictures to other users through the use of an already furnished API.
+
 ## Setup
 
 1. clone repository into local environment  
